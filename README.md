@@ -1,5 +1,5 @@
 # GBC Programmer Base 정리
-## ??목차?
+## 목차
 1. [Docker](docker.md)
 2. [VSCode](vscode.md)
 3. [Vim](vim.md)
