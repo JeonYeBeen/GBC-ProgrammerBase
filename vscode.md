@@ -2,23 +2,23 @@
 ![img](img/vscode.png)
 
 
-## VSCode ¼³Ä¡ ¹× C/C++ È¯°æ ¼³Á¤
-> Âü°í : https://webnautes.tistory.com/1158
+## VSCode ì„¤ì¹˜ ë° C/C++ í™˜ê²½ ì„¤ì •
+> ì°¸ê³  : https://webnautes.tistory.com/1158
 
 <br>
 
-## VSCode ´ÜÃàÅ°
-| ±â´É | ´ÜÃàÅ° |
+## VSCode ë‹¨ì¶•í‚¤
+| ê¸°ëŠ¥ | ë‹¨ì¶•í‚¤ |
 | :- | :- |
-| ÆÄÀÏ ¿­±â | ctrl+o |
-| »õ ÆÄÀÏ ¸¸µé±â | ctrl+n |
-| Ã¢ ¿­±â | ctrl+p |
-| Ã¢ ´İ±â | ctrl+w |
-| ´Ü¾î Ã£±â | ctrl+f |
-| ÀúÀå | ctrl+s |
-| È­¸é ÀÌµ¿ | ctrl+alt+“‡ÇâÅ° |
-| ÆÄÀÏ Æ÷Ä¿½Ì | ctrl+tab or alt+<¹øÈ£> |
-| ¸í·É ÆÈ·¹Æ® ¿­±â | ctrl+shift+p or <F1> |
-| ÅÍ¹Ì³Î ¿­±â | ctrl+` |
+| íŒŒì¼ ì—´ê¸° | ctrl+o |
+| ìƒˆ íŒŒì¼ ë§Œë“¤ê¸° | ctrl+n |
+| ì°½ ì—´ê¸° | ctrl+p |
+| ì°½ ë‹«ê¸° | ctrl+w |
+| ë‹¨ì–´ ì°¾ê¸° | ctrl+f |
+| ì €ì¥ | ctrl+s |
+| í™”ë©´ ì´ë™ | ctrl+alt+ë±¡í–¥í‚¤ |
+| íŒŒì¼ í¬ì»¤ì‹± | ctrl+tab or alt+<ë²ˆí˜¸> |
+| ëª…ë ¹ íŒ”ë ˆíŠ¸ ì—´ê¸° | ctrl+shift+p or <F1> |
+| í„°ë¯¸ë„ ì—´ê¸° | ctrl+` |
 
 
